@@ -1,0 +1,6 @@
+
+=====DANH SACH DON HANG(giam dan)======
+
+STT   MA SAN PHAM     TEN KHACH HANG                 TEN SAN PHAM                   SO LUONG   DON GIA    THANH TIEN     
+1     2               n                              v                              5          17000.000  85000.000      
+2     3               ho                             meo                            3          20000.000  60000.000      

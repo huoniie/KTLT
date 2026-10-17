@@ -1,0 +1,10 @@
+
+===DANH SACH SAN PHAM SAU KHI DA XU LY THANH CONG===
+
+STT   TEN SAN PHAM                   SO LUONG   DON GIA    
+1     Tao                            2          30.000     
+2     Tao                            6          30.000     
+3     Xoai                           4          20.000     
+4     Xoai                           5          20.000     
+5     Sua chua                       10         5.000      
+6     Bim bim                        20         5.000      

@@ -1,0 +1,98 @@
+0    
+HS001     
+Nguyen Van An                 
+12A1      
+8.50      
+7.20      
+9.00      
+1    
+HS002     
+Tran Thi Binh                 
+12A1      
+9.00      
+8.50      
+8.20      
+5    
+HS006     
+Vu Thi Lan                    
+12A1      
+8.00      
+9.00      
+7.50      
+8    
+HS009     
+Dang Minh Duc                 
+12A1      
+6.00      
+8.50      
+7.00      
+11   
+HS012     
+Le Tuan Nam                   
+12A1      
+9.20      
+8.80      
+9.50      
+14   
+HS015     
+Vu Quang Kiet                 
+12A1      
+7.20      
+6.80      
+8.50      
+17   
+HS018     
+Dang Ha My                    
+12A1      
+8.70      
+8.00      
+8.80      
+20   
+HS021     
+Le Thi Lan                    
+12A1      
+8.20      
+8.50      
+7.90      
+23   
+HS024     
+Vu Van Phong                  
+12A1      
+6.50      
+7.00      
+6.80      
+26   
+HS027     
+Dang Ngoc Kiet                
+12A1      
+9.30      
+9.20      
+9.80      
+29   
+HS030     
+Le Van An                     
+12A1      
+7.60      
+7.00      
+8.20      
+32   
+HS033     
+Vu Tuan Cuong                 
+12A1      
+9.10      
+8.40      
+8.90      
+35   
+HS036     
+Dang Van Nam                  
+12A1      
+6.20      
+7.10      
+6.50      
+38   
+HS039     
+Le Ngoc Huy                   
+12A1      
+8.10      
+7.60      
+8.40      

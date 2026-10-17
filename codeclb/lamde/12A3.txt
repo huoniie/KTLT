@@ -1,0 +1,91 @@
+4    
+HS005     
+Hoang Tuan Kiet               
+12A3      
+9.50      
+7.50      
+9.00      
+6    
+HS007     
+Do Quang Huy                  
+12A3      
+7.00      
+6.50      
+8.00      
+9    
+HS010     
+Nguyen Ha My                  
+12A3      
+8.50      
+8.00      
+9.00      
+12   
+HS013     
+Pham Thi Vy                   
+12A3      
+6.00      
+7.50      
+8.00      
+15   
+HS016     
+Do Khanh Linh                 
+12A3      
+9.00      
+9.50      
+9.20      
+18   
+HS019     
+Nguyen Ngoc An                
+12A3      
+7.90      
+7.40      
+8.10      
+21   
+HS022     
+Pham Tuan Huy                 
+12A3      
+9.60      
+9.00      
+9.40      
+24   
+HS025     
+Do Thi Binh                   
+12A3      
+8.80      
+8.20      
+8.70      
+27   
+HS028     
+Nguyen Quang Nam              
+12A3      
+5.80      
+6.20      
+7.00      
+30   
+HS031     
+Pham Minh My                  
+12A3      
+8.00      
+8.30      
+8.50      
+33   
+HS034     
+Do Ngoc Phong                 
+12A3      
+7.30      
+6.80      
+7.50      
+36   
+HS037     
+Nguyen Khanh Lan              
+12A3      
+9.80      
+9.50      
+9.70      
+39   
+HS040     
+Pham Ha Binh                  
+12A3      
+6.70      
+7.30      
+7.00      

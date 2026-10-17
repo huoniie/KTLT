@@ -1,0 +1,42 @@
+6
+Xoai
+25
+Loai 1
+19
+Tao
+24
+Loai 1
+8
+Cam
+45
+Loai 2
+5
+Nho
+70
+Loai 3
+8
+Bim bim
+5
+Loai 3
+97
+Sua chua
+7
+Loai 3
+8
+
+
+
+=====DANH SACH SAN PHAM============
+STT   TEN SAN PHAM                   GIA             LOAI(1,2,3) SO LUONG  
+1     Xoai                           25.000          Loai 1     19        
+2     Tao                            24.000          Loai 1     8         
+3     Cam                            45.000          Loai 2     5         
+4     Nho                            70.000          Loai 3     8         
+5     Bim bim                        5.000           Loai 3     97        
+6     Sua chua                       7.000           Loai 3     8         
+=====KET QUA THONG KE CAC LOAI SAN PHAM=====
+
+Co 2 san pham loai 1.
+Co 1 san pham loai 2.
+Co 3 san pham loai 3.
+San pham Loai 1 co gia thap nhat: Tao (24.000)

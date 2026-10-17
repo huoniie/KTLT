@@ -1,0 +1,4 @@
+sap xep: -12 -12 -7 -5 -5 0 0 0 2 2 7 7 19 23 23 
+So nguyen to lon nhat la: 23
+
+Mang sau khi xoa phan tu trung lap -12 -7 -5 0 2 7 19 23 

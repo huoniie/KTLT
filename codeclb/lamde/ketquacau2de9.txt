@@ -1,0 +1,21 @@
+
+
+===========DANH SACH SINH VIEN============
+
+STT   MA SINH VIEN    HO VA TEN                      LOP             DIEM TB    SO TIN CHI
+1     SV001           Nguyen Van An                  CNTT1           3.25       105       
+2     SV002           Tran Thi Binh                  CNTT1           3.95       90        
+3     SV003           Le Hoang Cuong                 CNTT2           2.80       110       
+4     SV004           Pham My Dung                   CNTT2           3.50       65        
+5     SV005           Hoang Tuan Kiet                CNTT1           3.10       120       
+6     SV006           Vu Thi Hoa                     CNTT3           2.95       80        
+Co 3 sinh vien lop CNTT1.
+Co 2 sinh vien lop CNTT2.
+Co 1 sinh vien lop CNTT3.
+Diem trung binh cao nhat la: 3.95
+===========DANH SACH SINH VIEN CO SO TIN CHI TREN 100============
+
+STT   MA SINH VIEN    HO VA TEN                      LOP             DIEM TB    SO TIN CHI
+1     SV001           Nguyen Van An                  CNTT1           3.25       105       
+3     SV003           Le Hoang Cuong                 CNTT2           2.80       110       
+5     SV005           Hoang Tuan Kiet                CNTT1           3.10       120       

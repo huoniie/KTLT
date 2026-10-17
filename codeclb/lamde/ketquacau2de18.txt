@@ -1,0 +1,17 @@
+
+DANH SACH NHAN VIEN
+
+1     123        Hua Thuy Nga                   18.888          A    
+2     234        Hoang Thi Tu Diep              17.887          C    
+3     345        Chu Thi Huong                  28.321          B    
+4     456        Be Thi Hoai                    19.738          C    
+5     567        Hoang Thi Ngoc Son             34.532          A    
+Luong trung binh cua ban A la53.420
+Luong trung binh cua ban B la28.321
+Luong trung binh cua ban C la37.625
+Danh sach nhan vien (sap xep giam dan theo luong)
+1     567        Hoang Thi Ngoc Son             34.532          A    
+2     345        Chu Thi Huong                  28.321          B    
+3     456        Be Thi Hoai                    19.738          C    
+4     123        Hua Thuy Nga                   18.888          A    
+5     234        Hoang Thi Tu Diep              17.887          C    

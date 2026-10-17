@@ -1,0 +1,5 @@
+
+1     2               hoang thi tu diep              10.00          
+2     1               hua thuy nga                   9.68           
+3     4               be thi hoai                    9.55           
+4     3               chu thi huong                  9.05           

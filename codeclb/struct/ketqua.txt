@@ -1,0 +1,11 @@
+
+========KET QUA===========
+Diem trung binh lop: 7.29
+
+Sinh vien co diem cao thu hai.
+
+Hoang Thi Ngoc Son             9.00  251210882 
+Lang Thi Anh                   9.00  251210882 
+Sinh vien co diem gan trung binh nhat (cach 0.71 diem):
+
+Be Thi Hoai                    8.00  251210884 

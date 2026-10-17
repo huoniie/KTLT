@@ -1,0 +1,31 @@
+6
+SV001
+Nguyen Van An
+CNTT1
+3.25
+105
+SV002
+Tran Thi Binh
+CNTT1
+3.95
+90
+SV003
+Le Hoang Cuong
+CNTT2
+2.80
+110
+SV004
+Pham My Dung
+CNTT2
+3.50
+65
+SV005
+Hoang Tuan Kiet
+CNTT1
+3.10
+120
+SV006
+Vu Thi Hoa
+CNTT3
+2.95
+80

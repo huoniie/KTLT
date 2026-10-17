@@ -1,0 +1,10 @@
+
+=====DANH SACH DON HANG======
+
+STT   MA SAN PHAM     TEN KHACH HANG                 TEN SAN PHAM                   SO LUONG   DON GIA    THANH TIEN     
+1     1               h                              ty                             1          10000.000  10000.000      
+2     2               n                              v                              5          17000.000  85000.000      
+3     3               ho                             meo                            3          20000.000  60000.000      
+4     4               d                              xe                             1          49.000     49.000         
+Don hang co gia tri lon nhat la don hang: 2 voi tri gia 85000.000
+Tong doanh thu cua 4 don hang: 155049.000
