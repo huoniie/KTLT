@@ -1,0 +1,7 @@
+
+======Thong tin doan vien========
+
+1     chu thi huong                  2007       2011       4         
+2     hoang thi tu diep              2007       2012       3         
+3     be thi hoai                    2007       2014       1         
+4     hua thuy nga                   2007       2015       0         

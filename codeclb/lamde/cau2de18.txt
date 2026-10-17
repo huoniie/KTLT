@@ -1,0 +1,21 @@
+5
+123
+Hua Thuy Nga
+18.888
+A
+234
+Hoang Thi Tu Diep
+17.887
+C
+345
+Chu Thi Huong
+28.321
+B
+456
+Be Thi Hoai
+19.738
+C
+567
+Hoang Thi Ngoc Son
+34.532
+A

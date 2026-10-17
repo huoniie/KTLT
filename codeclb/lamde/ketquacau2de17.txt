@@ -1,0 +1,14 @@
+
+ANH SACH DOAN VIEN
+
+1     Hua Thuy Nga                   2000            2013            
+2     Hoang Thi Tu Diep              2003            2010            
+3     Chu Thi Huong                  2007            2012            
+4     Be Thi Hoai                    2008            2015            
+Co 3 doan vien co tuoi doan trong ( 2007 < tuoidoan <2015)
+DANH SACH DOAN VIEN(theo nam ket nap)
+
+1     Hoang Thi Tu Diep              2003            2010            
+2     Chu Thi Huong                  2007            2012            
+3     Hua Thuy Nga                   2000            2013            
+4     Be Thi Hoai                    2008            2015            

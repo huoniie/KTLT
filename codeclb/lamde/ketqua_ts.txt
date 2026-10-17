@@ -1,0 +1,9 @@
+
+=======DANH SACH THI SINH=========
+
+ STT   SO BAO DANH     HO VA TEN                      DIEM       TRUONG    
+1     652             Be Thi Hoai                    17.00      C         
+2     874             hoang thi tu diep              15.00      A         
+3     242             Hoang thi ngoc son             13.50      A         
+4     M456            chu thi huong                  12.00      A         
+5     N234            hua thuy nga                   12.00      B         

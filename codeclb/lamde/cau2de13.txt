@@ -1,0 +1,16 @@
+5
+KV_HoTay
+7.2
+85
+KV_ToLich
+5.8
+40
+KV_HoanKiem
+8.6
+70
+KV_SongHong
+7.5
+85
+KV_GiangVo
+6.8
+90

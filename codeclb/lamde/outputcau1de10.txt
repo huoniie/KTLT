@@ -1,0 +1,114 @@
+
+DANH SACH CAU THU
+
+STT   HO VA TEN                      MON        DIEM       CAU LAC BO
+         
+1     Nguyen Quang Hai               A          85.50      X                   
+
+2     Tran Thi Thanh Thuy            B          92.00      Y                   
+
+3     Le Tuan Minh                   C          78.50      Z                   
+
+4     Nguyen Van Toan                A          81.00      X                   
+
+5     Bui Thi Xuan                   B          88.50      Y                   
+
+6     Pham Phuoc Hung                C          95.00      Z                   
+
+7     Nguyen Tien Linh               A          79.50      X                   
+
+8     Tran Thi Ngoc Yen              B          84.00      Z                   
+
+9     Le Thanh Tung                  C          89.50      Y                   
+
+10    Nguyen Hoang Duc               A          91.00      X                   
+
+11    Dinh Thi Tra Giang             B          82.50      Y                   
+
+12    Nguyen Thuy Linh               C          94.50      Z                   
+
+13    Doan Van Hau                   A          75.00      X                   
+
+14    Tran Tuan Minh                 C          86.00      Y                   
+
+15    Nguyen Thi Oanh                B          98.50      Z                   
+
+Cau thu co diem thap nhat
+
+13    Doan Van Hau                   A          75.00      X                   
+
+Danh sach cau thu cua cau lac bo X
+
+1     Nguyen Quang Hai               A          85.50      X                   
+
+4     Nguyen Van Toan                A          81.00      X                   
+
+7     Nguyen Tien Linh               A          79.50      X                   
+
+10    Nguyen Hoang Duc               A          91.00      X                   
+
+13    Doan Van Hau                   A          75.00      X                   
+
+Danh sach cau thu cua cau lac bo Y
+
+2     Tran Thi Thanh Thuy            B          92.00      Y                   
+
+5     Bui Thi Xuan                   B          88.50      Y                   
+
+9     Le Thanh Tung                  C          89.50      Y                   
+
+11    Dinh Thi Tra Giang             B          82.50      Y                   
+
+14    Tran Tuan Minh                 C          86.00      Y                   
+
+Danh sach cau thu cua cau lac bo Z
+
+3     Le Tuan Minh                   C          78.50      Z                   
+
+6     Pham Phuoc Hung                C          95.00      Z                   
+
+8     Tran Thi Ngoc Yen              B          84.00      Z                   
+
+12    Nguyen Thuy Linh               C          94.50      Z                   
+
+15    Nguyen Thi Oanh                B          98.50      Z                   
+
+DANH SACH CAU THU MON A
+
+1     Nguyen Quang Hai               A          85.50      X                   
+
+4     Nguyen Van Toan                A          81.00      X                   
+
+7     Nguyen Tien Linh               A          79.50      X                   
+
+10    Nguyen Hoang Duc               A          91.00      X                   
+
+13    Doan Van Hau                   A          75.00      X                   
+
+DANH SACH CAU THU MON B
+
+2     Tran Thi Thanh Thuy            B          92.00      Y                   
+
+5     Bui Thi Xuan                   B          88.50      Y                   
+
+8     Tran Thi Ngoc Yen              B          84.00      Z                   
+
+11    Dinh Thi Tra Giang             B          82.50      Y                   
+
+15    Nguyen Thi Oanh                B          98.50      Z                   
+
+DANH SACH CAU THU MON C
+
+3     Le Tuan Minh                   C          78.50      Z                   
+
+6     Pham Phuoc Hung                C          95.00      Z                   
+
+9     Le Thanh Tung                  C          89.50      Y                   
+
+12    Nguyen Thuy Linh               C          94.50      Z                   
+
+14    Tran Tuan Minh                 C          86.00      Y                   
+
+Co 5 cau thu thuoc clb X
+Co 5 cau thu thuoc clb Y
+Co 5 cau thu thuoc clb Z

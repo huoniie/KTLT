@@ -1,0 +1,61 @@
+15
+Nguyen Quang Hai
+A
+85.5
+X
+Tran Thi Thanh Thuy
+B
+92.0
+Y
+Le Tuan Minh
+C
+78.5
+Z
+Nguyen Van Toan
+A
+81.0
+X
+Bui Thi Xuan
+B
+88.5
+Y
+Pham Phuoc Hung
+C
+95.0
+Z
+Nguyen Tien Linh
+A
+79.5
+X
+Tran Thi Ngoc Yen
+B
+84.0
+Z
+Le Thanh Tung
+C
+89.5
+Y
+Nguyen Hoang Duc
+A
+91.0
+X
+Dinh Thi Tra Giang
+B
+82.5
+Y
+Nguyen Thuy Linh
+C
+94.5
+Z
+Doan Van Hau
+A
+75.0
+X
+Tran Tuan Minh
+C
+86.0
+Y
+Nguyen Thi Oanh
+B
+98.5
+Z

@@ -1,0 +1,7 @@
+
+Cac phan tu trong duong cheo chinh2  8  8  6  
+Cac phan tu trong duong cheo phu7  5  5  2  
+Cac diem thoa man dieu kien cung tan.
+P(0,2)=9
+P(1,3)=3
+P(3,1)=3

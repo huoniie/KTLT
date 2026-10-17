@@ -1,0 +1,9 @@
+
+DANH SACH MAU DU LIEU
+
+STT   MA KHU VUC           DO pH      CHI SO WQI           
+1     KV_GiangVo           6.8        90                   
+2     KV_HoTay             7.2        85                   
+3     KV_SongHong          7.5        85                   
+4     KV_HoanKiem          8.6        70                   
+5     KV_ToLich            5.8        40                   
